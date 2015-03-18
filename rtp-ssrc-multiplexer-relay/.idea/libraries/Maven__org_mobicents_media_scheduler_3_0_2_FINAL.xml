@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.mobicents.media:scheduler:3.0.2.FINAL">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mobicents/media/scheduler/3.0.2.FINAL/scheduler-3.0.2.FINAL.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mobicents/media/scheduler/3.0.2.FINAL/scheduler-3.0.2.FINAL-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mobicents/media/scheduler/3.0.2.FINAL/scheduler-3.0.2.FINAL-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
